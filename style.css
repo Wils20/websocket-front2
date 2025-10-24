@@ -46,6 +46,12 @@ h2 {
   text-align: left;
 }
 
+.time {
+  font-size: 0.75em;
+  color: #555;
+  margin-top: 3px;
+}
+
 form {
   display: flex;
   width: 400px;
